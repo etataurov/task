@@ -1,0 +1,5 @@
+ride_id,from_stop,to_stop,date,description,transaction_hash,price
+1,1,6.0,2013-01-01,Frankfurt (Main) Hbf - Leipzig Hbf (Goethestraße),0b63ad0c695b603e69b86c44a03ade3b,5.00
+1,1,6.0,2013-01-01,Leipzig Hbf (Goethestraße) - Frankfurt (Main) Hbf,a3b6c436804e486e79325e955aeed29e,15.00
+2,1,2.0,2013-01-01,Friedrichshafen Stadtbf - München ZOB,737ad83211ab145ef90652b525768bea,32.00
+3,3,5.0,2013-01-01,Zürich HB (Carpark Sihlquai) - Freiburg Hbf,f7c071c56713ccdfa7a3546cb045fa2a,12.00

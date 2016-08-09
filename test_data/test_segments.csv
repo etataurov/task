@@ -1,0 +1,5 @@
+"segment_id","from_stop","to_stop","distance"
+1,1,4,1.0
+2,4,6,1.0
+3,6,2,1.0
+4,3,5,20.00
